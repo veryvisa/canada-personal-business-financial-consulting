@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veryvisa.github.io/canada-personal-business-financial-consulting/sitemap.xml
