@@ -74,4 +74,4 @@
 - 微出国 · 人寿健康险对比站: https://veryvisa.github.io/insure-compare-site/
 - 微出国 · 车险房屋险对比站: https://veryvisa.github.io/pc-compare-site/
 
-微出国提供一般性的信息与规划框架，不构成投资、保险、税务、法律或移民建议。个案投资建议由 BCSC / CIRO 注册人士提供，保险建议由持牌保险顾问提供并披露报酬。我们不收取转介费；请勿在表单中填写 SIN、身份证号或账户号码。
+个案投资建议由 BCSC / CIRO 注册人士提供，保险建议由持牌保险顾问提供并披露报酬。请勿在表单中填写 SIN、身份证号或账户号码。
