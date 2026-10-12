@@ -1,17 +1,17 @@
 # 落地财务路线图（微出国 VeryVisa）
 
-> 为初到加拿大的华人家庭与小企业主梳理资金安排的先后次序：一次约 30 分钟的沟通，附一份《落地财务路线图》，列明每一步对应的持牌人士与应提出的问题。不销售产品，
+> 为初到加拿大的华人家庭与小企业主梳理资金安排的先后次序：一次约 30 分钟的沟通，附一份《落地财务路线图》，列明每一步对应的持牌人士与应提出的问题。不销售产品，不提供个案投资建议。
 
 网址：https://veryvisa.github.io/canada-personal-business-financial-consulting/
 提供方：微出国（VeryVisa）。微出国是在加拿大不列颠哥伦比亚省的中文专业服务团队，服务海外华人家庭与小企业。
 咨询：页面底部表单，或邮件 veryvisa.com@gmail.com
-信息截至：2026-10-05
+信息截至：2026-10-12
 
 ## 交付内容
 阶段判定 落地日期决定居民身份自哪一天起算；TFSA / RRSP / FHSA 的额度、第一次报税、各项福利的起始时间，均以此为准。路线图首先载明您家目前所处的阶段。 先后次序 例如：先确认居民起算日，再开设不收月费的账户，再建立信用记录，再考虑注册账户，最后才是投资。每一步附 CRA 或 BC 省政府的原文链接。 持牌分工表 银行、注册投资顾问、持牌保险顾问、会计师、律师各自负责哪一段，以及在何处查询对方是否注册。 问题清单 例如「这只基金的 MER 是多少，是否含有尾佣？」持清单提问，可以分辨对方是在解答还是在推销。 保障缺口清单 有房贷、有子女、只有一份收入的家庭，列出可能欠缺的保障类别；只列类别，不涉及具体产品。
 
 ## 适用情形
-刚落地的家庭 刚取得永居、工签或学签，一个月内需要开户、建立信用、准备第一次报税。 已收到多项产品推荐 在加拿大生活数年，希望有一位不销售基金的人协助梳理。 刚开始经营小企业 个体经营还是注册公司、是否登记 GST、账目从何记起，尚未厘定。 接父母同住 需要理清父母的医疗、将来的政府福利与家庭资金如何衔接。 储备教育金或首付 RESP、FHSA、TFSA 孰先孰后，各自的额度自哪一天开始计算。
+刚落地的家庭 刚取得永居、工签或学签，一个月内需要开户、建立信用、准备第一次报税。 已收到多项产品推荐 在加拿大生活数年，希望有一位不销售基金的人协助梳理。 刚开始经营小企业 个体经营还是注册公司、是否登记 GST、账目从何记起，尚未厘定。 接父母同住 需要理清父母的医疗、将来的政府福利与家庭资金如何衔接。 储备教育金或首付 RESP、FHSA、TFSA 孰先孰后，各自的额度自哪一天开始计算。 第一次自雇或做自由职业 落地不久便开始接单，要不要登记 GST、收入如何记账、第一次报税要备齐哪些单据，尚无头绪。 长辈身边的顾问身兼数职 父母的房产经纪、保险代理或亲友同时提供理财建议，子女希望先列好要问的问题，再陪长辈去谈。
 
 ## 工作方式
 1. 您留下邮箱与几句说明：落地时间、家庭人数、最希望先处理的事项。 2. 我们回复并约定一次约 30 分钟的视频或电话沟通。 3. 沟通中核对您家的情况，排定先后次序。 4. 交付《落地财务路线图》：一页正文，附问题清单与官方依据链接。 5. 需要持牌人士时，我们说明应找哪一类、如何核验其注册；您也可以自行联系。 6. 三个月后回访一次，了解路线图是否适用、哪些部分有待改进。
@@ -22,8 +22,8 @@
 ## 服务边界
 - 提供：阶段判定、先后次序、持牌分工、问题清单与保障缺口类别。 - 提供：官方原文链接，以及核验对方注册的途径。 - 不提供：具体基金或股票的选择、供款金额建议，不代为选择银行或券商。 - 不提供：投资建议、税务申报、法律意见或移民建议；这些由相应的持牌人士负责。 - 不群发邮件，不索取 SIN、身份证号与账户号码。 - 保险只由持牌顾问说明，不捆绑于任何咨询。
 
-## 常见情形
-以下是几种常见情形，并非某一位客户的经历。 在银行办理新移民套餐时，理财经理说「先买这个平衡基金」。问及费用，对方答「很低」。究竟多低，应当用哪个词去问，一时不得而知。 听说 TFSA 每年可以存一笔，有朋友说已累计十万，另一位朋友说只有当年的额度。两种说法相去甚远，而超额供款的部分每个月都要缴纳罚税。 小企业去年收入接近三万，没有人提醒过 GST 有一条登记线。 财务上的多数失误，源于次序颠倒，以及该问的问题没有问。
+## 初到加拿大的人常说的几件事
+以下几段取自公开论坛的原话，链接附后。个案经过以原帖为准，此处不评论任何产品或机构。 同时面对所得税、各类账户与银行。 「this is the first time we’ve had to deal with income taxes, different types of accounts (TFSA, RRSP, RESP, etc.), and Canadian banking in general.」（r/PersonalFinanceCanada）。按 CRA 说明，多数新移民自在加拿大居住的第一天起成为税务居民；额度、报税与福利都从这一天往后排。 不知道额度从哪里查。 「Does anyone know how and where I can find my RRSP and TFSA contribution limits?」（r/PersonalFinanceCanada）。TFSA 额度只在成为加拿大居民的年度累积；落地之前的年份不计入。 原有的信用记录归零。 「Back home I had a long credit history, but here I'm basically starting from zero.」（r/PersonalFinanceCanada）。另一位写道，租房、手机与车贷都要看信用记录（r/PersonalFinanceCanada）。 见过银行，仍不知下一步。 「I have 7k in savings and just met with TD to see what they offer. They suggested GICs」（r/PersonalFinanceCanada）。另一位只想有人看看自己有没有做错：「Not looking for someone to manage my money, just want someone to look at my situation and tell me if I'm doing anything dumb.」（r/PersonalFinanceCanada）
 
 ## 其他服务的分转
 本页也是微出国其他服务的总入口。报税、签证与身份、父母探亲保险、买房卖房、买车、遗产与执行人、小企业网站等事项，请在表单中选择最接近的一项，我们会将问题转至相应的负责人。
@@ -46,7 +46,7 @@
 答：几家大银行设有新移民套餐，允许没有信用记录的新移民申请信用卡；额度、资格与有效期以银行官网为准。各家细则整理于 银行对比站。
 
 问：小企业何时须登记 GST？
-答：一般而言，连续四个日历季度或任一单季的应税收入超过 30,000 加元即须登记，低于此线也可自愿登记。以 CRA 原文为准，具体到您的业务请向会计师确认。
+答：按 CRA 说明，单一日历季度或连续四个日历季度的应税收入超过 30,000 加元，即不再属于小供应商，须登记；低于此线也可自愿登记。见 CRA：When to register for and start charging the GST/HST。具体到您的业务，请向会计师确认。
 
 问：个体经营与注册公司，应如何选择？
 答：两者的注册费用、报税方式与个人责任各不相同。选择取决于收入、风险与客户要求，须听取会计师与律师的意见。我们先将应向他们提出的问题列明。
@@ -60,6 +60,18 @@
 问：需要提供哪些资料？
 答：首次只需几句话：落地时间、家庭结构、收入形态、最希望解决的事项。SIN、身份证号、账户号码与完整报税表均请勿发送。
 
+问：新移民从哪一天起算加拿大税务居民？
+答：按 CRA 说明，多数新移民自在加拿大居住的第一天起成为税务居民，CRA 把成为居民的第一年视为新移民年度。个人情况取决于在加拿大的居住联系，见 CRA：Newcomers to Canada and the CRA。
+
+问：在哪里查自己的 TFSA 与 RRSP 额度？
+答：登录 CRA My Account 可以查看；CRA 提示，账户中的 TFSA 信息要等发行机构报送上一年交易后才会更新，当年的存取须自行记录。TFSA 额度只在成为加拿大居民的年度累积。
+
+问：如何核实理财顾问或规划师的资质？
+答：投资顾问可在 CIRO 的 AdvisorReport 查注册与纪律记录；CFP 持证人可在 FP Canada 名录 查持证状态，名录同时列出曾持证、现已失效的人。FP Canada 注明，名录中的联系方式由规划师自行提供，未经核实。
+
+问：父母的地产经纪或保险代理同时提供理财建议，应如何应对？
+答：先问清对方持有哪一类执照、在哪个机构注册，再按清单提问：这项建议涉及的产品费率是多少、可否在其他机构买到同类产品、资金何时可以取出。路线图中的问题清单可以带去见面时使用。
+
 ## 参考资料
 - CRA：计算 TFSA 供款额度: https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/contributing/calculate-room.html
 - CSA / CIRO 员工通告 31-369（何时需要注册）: https://www.bcsc.bc.ca/-/media/PWS/New-Resources/Securities-Law/Instruments-and-Policies/Policy-3/31369-CSA-and-CIRO-Staff-Notice-December-11-2025.pdf?dt=20251209223110
@@ -67,5 +79,9 @@
 - 微出国 · 投资机构对比站: https://veryvisa.github.io/invest-compare-site/
 - 微出国 · 人寿健康险对比站: https://veryvisa.github.io/insure-compare-site/
 - 微出国 · 车险房屋险对比站: https://veryvisa.github.io/pc-compare-site/
+- CRA：Newcomers to Canada and the CRA: https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html
+- CRA：When to register for and start charging the GST/HST: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html
+- FP Canada：Planner Directory: https://www.fpcanada.ca/findaplanner
+- BC 省政府：小企业资源（含简繁中文版）: https://www2.gov.bc.ca/gov/content/employment-business/business/small-business
 
 个案投资建议由 BCSC / CIRO 注册人士提供，保险建议由持牌保险顾问提供。请勿在表单中填写 SIN、身份证号或账户号码。
